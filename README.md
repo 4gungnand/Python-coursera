@@ -1,2 +1,2 @@
 # Python-coursera
-A python file/scripts used in coursera during 2023 Bangkit Program
+Repository for python files/scripts used in coursera during 2023 Bangkit Program
