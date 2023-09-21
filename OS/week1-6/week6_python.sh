@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import sys
+import subprocess
+import os
 # The system's home path (input <student-id> manually)
 path = '/home/<student-id>'
 # Loop through the file
